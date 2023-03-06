@@ -13,9 +13,10 @@
 
 // cookies();
 
-var args = "hello bananas"
-var pizza = "mama mia"
-var nums = 12345
+let args = "hello bananas"
+let pizza = "mama mia"
+let nums = 12345
+const = 123456789
 
 function bananas(params){
     console.log(params)
